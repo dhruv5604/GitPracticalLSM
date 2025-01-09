@@ -1,2 +1,2 @@
 This is feature branch
-This is also for changed 
+This is also for changed This is feature branch
